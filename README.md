@@ -1,13 +1,20 @@
 # PR5_BOOLEANS
+
 #Practica 5 de la función 
 #Booleans
 
 #Imprimir líneas en blanco y un título para la práctica
+
 print("")  #Imprime una línea en blanco
+
 print("Esta es mi práctica 5 de booleans")  #Título de la práctica
+
 print("")  #Imprime una línea en blanco
+
 print("")  #Imprime otra línea en blanco
+
 print("Jimenez Gamboa Issis Alexa 3W")  #Nombre y grupo del autor
+
 print("")  #Imprime una línea en blanco
 
 # Asignación de valores a las variables x e y
